@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b2d0011-5947-4be0-b32c-4235719235f1" name="Changes" comment="Inisialisasi etalase untuk ditampilkan nanti">
+    <list default="true" id="2b2d0011-5947-4be0-b32c-4235719235f1" name="Changes" comment="Mindahin Inisialisasi dari main ke Class Etalase">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Etalase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Etalase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,24 +27,24 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2nNESPzoIxGGXhfRmaQNDYulSGM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/luthf/IntelliJ/KasirJava/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/luthf/IntelliJ/KasirJava/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
@@ -74,7 +75,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728809078188</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Mindahin Inisialisasi dari main ke Class Etalase">
+      <option name="closed" value="true" />
+      <created>1728809139326</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728809139326</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Mindahin Inisialisasi dari main ke Class Etalase">
+      <option name="closed" value="true" />
+      <created>1728809152419</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728809152419</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,7 +99,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -90,7 +119,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit, class main dan class lsBarang" />
-    <MESSAGE value="Inisialisasi etalase untuk ditampilkan nanti" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inisialisasi etalase untuk ditampilkan nanti" />
+    <MESSAGE value="Class untuk Inisialisasi etalase untuk ditampilkan ke user" />
+    <MESSAGE value="Mindahin Inisialisasi dari main ke Class Etalase" />
+    <MESSAGE value="Class untuk Inisialisasi etalase untuk ditampilkan ke user" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class untuk Inisialisasi etalase untuk ditampilkan ke user" />
   </component>
 </project>
