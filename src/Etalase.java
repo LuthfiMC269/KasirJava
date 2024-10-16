@@ -2,13 +2,15 @@ import java.util.ArrayList;
 
 public class Etalase {
     ArrayList<lsBarang> etalase; // Deklarasi etalase
-
+    ArrayList<lsBarang> keranjang = new ArrayList<>();
+    int totalKeseluruhan = 0;
     // Konstruktor untuk menginisialisasi etalase
     public Etalase() {
         etalase = new ArrayList<>();
         etalase.add(new lsBarang("Milo", 6000, 0));
         etalase.add(new lsBarang("Ayam Goreng", 8000, 0));
         etalase.add(new lsBarang("Minyak Goreng", 20000, 0));
+        etalase.add(new lsBarang("Pisang Bakar", 10000, 0));
     }
 
     // Menampilkan barang di etalase
@@ -20,7 +22,7 @@ public class Etalase {
         }
     }
 
-    ArrayList<lsBarang> keranjang = new ArrayList<>();
+
 
     // Menggunakan indeks sebagai ID
     public void tambahKeKeranjang(int idBarang, int jumlah) {
@@ -48,13 +50,14 @@ public class Etalase {
             System.out.println("Keranjang kosong.");
         } else {
             System.out.println("Isi keranjang:");
-            int totalKeseluruhan = 0;
             for (lsBarang barang : keranjang) {
                 int totalHargaBarang = barang.harga * barang.jumlah;
                 System.out.println(barang.nama + " - Rp." + barang.harga + " x " + barang.jumlah + " = Rp." + totalHargaBarang);
                 totalKeseluruhan += totalHargaBarang;
             }
-            System.out.println("Total keseluruhan: Rp." + totalKeseluruhan);
         }
+    }
+    public int getTotalKeseluruhan() {
+        return totalKeseluruhan;
     }
 }

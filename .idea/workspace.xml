@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b2d0011-5947-4be0-b32c-4235719235f1" name="Changes" comment="Mindahin Inisialisasi dari main ke Class Etalase">
+    <list default="true" id="2b2d0011-5947-4be0-b32c-4235719235f1" name="Changes" comment="ga tau njir intinya sekarang bisa input barang, dan barangnya dicek udh di keranjang apa belum. kalo udah ditambah jumlahnya, kalo belum dimasukkin ke keranjang. dan udah nambah fitur cek keranjang untuk lanjut ke pembayaran">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Etalase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Etalase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
@@ -91,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728809152419</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ga tau njir intinya sekarang bisa input barang, dan barangnya dicek udh di keranjang apa belum. kalo udah ditambah jumlahnya, kalo belum dimasukkin ke keranjang. dan udah nambah fitur cek keranjang untuk lanjut ke pembayaran">
+      <option name="closed" value="true" />
+      <created>1728823180493</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728823180493</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +130,7 @@
     <MESSAGE value="Class untuk Inisialisasi etalase untuk ditampilkan ke user" />
     <MESSAGE value="Mindahin Inisialisasi dari main ke Class Etalase" />
     <MESSAGE value="Class untuk Inisialisasi etalase untuk ditampilkan ke user" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class untuk Inisialisasi etalase untuk ditampilkan ke user" />
+    <MESSAGE value="ga tau njir intinya sekarang bisa input barang, dan barangnya dicek udh di keranjang apa belum. kalo udah ditambah jumlahnya, kalo belum dimasukkin ke keranjang. dan udah nambah fitur cek keranjang untuk lanjut ke pembayaran" />
+    <option name="LAST_COMMIT_MESSAGE" value="ga tau njir intinya sekarang bisa input barang, dan barangnya dicek udh di keranjang apa belum. kalo udah ditambah jumlahnya, kalo belum dimasukkin ke keranjang. dan udah nambah fitur cek keranjang untuk lanjut ke pembayaran" />
   </component>
 </project>
